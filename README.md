@@ -78,4 +78,4 @@ Run the Python script to launch the Task Scheduling App.
 
 bash:Copy code
 
-$python task_scheduler.py
+$python app.py
