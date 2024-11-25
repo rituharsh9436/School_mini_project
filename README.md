@@ -39,6 +39,16 @@ Get Next Task: Users can view and retrieve the task with the highest priority.
 
 Delete All Tasks: Users can clear all tasks from the queue.
 
+Main Functionalities:
+
+
+Add tasks.
+
+View tasks sorted by priority.
+
+Execute tasks in the correct order.
+
+
 Graphical User Interface: A simple and intuitive interface built with Tkinter, providing an easy-to-use experience.
 
 Code Structure:
