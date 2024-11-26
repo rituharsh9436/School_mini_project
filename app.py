@@ -15,7 +15,7 @@ class PriorityQueue:
             self.queue.append(new_task)
         else:
             for i in range(len(self.queue)):
-                if self.queue[i][1] < priority:
+                if self.queue[i][1] > priority:
                     self.queue.insert(i, new_task)
                     break
             else:
